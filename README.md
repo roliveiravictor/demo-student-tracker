@@ -1,6 +1,6 @@
 # README #
 
-Programming Language: Java/xhtml 
+Programming Language: Java/XHTML
 
 IDE: Eclipse Java EE Mars.2 4.5.2
 
@@ -33,10 +33,10 @@ JRE: 8u77
 
 ### Prints ###
 
-   ![glitch1.jpg](https://bitbucket.org/repo/RqpGRk/images/336663763-glitch1.jpg)
+   ![Student 1.png](https://bitbucket.org/repo/6k7gMk/images/3163233393-Student%201.png)
 
 
-   ![glitch2.jpg](https://bitbucket.org/repo/RqpGRk/images/3847630999-glitch2.jpg)
+   ![Student 2.png](https://bitbucket.org/repo/6k7gMk/images/2245442931-Student%202.png)
 
 
-   ![glitch3.jpg](https://bitbucket.org/repo/RqpGRk/images/3750587286-glitch3.jpg)
+   ![Student 3.png](https://bitbucket.org/repo/6k7gMk/images/3309165596-Student%203.png)
