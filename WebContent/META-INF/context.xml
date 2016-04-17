@@ -1,0 +1,30 @@
+<!--
+
+/**********************************************************************/
+/*                                                                    */
+/*						Student Tracker								  */
+/*																	  */
+/*		 My intention with those codes was to create a web app with	  */
+/* 		 JSF. The codes here presented was written watching Chad	  */ 
+/* 		 Darby's course at Udemy. For more information please visit	  */
+/* 		 https://www.udemy.com/jsf-tutorial/     					  */
+/*																	  */
+/*                                                                    */
+/**********************************************************************/
+
+-->
+
+<Context>
+	<Resource 
+			 name 			 	= "jdbc/student_tracker"
+			 auth 			 	= "Container" 
+		 	 type 			 	= "javax.sql.DataSource"
+			 maxIdle 		 	= "5"
+			 maxActive 		 	= "20"
+			 maxWait 		 	= "10000"
+			 username 		 	= "demo"
+			 password 	 	 	= "demo"
+			 driverClassName 	= "com.mysql.jdbc.Driver"
+			 url 			 	= "jdbc:mysql://localhost:3306/student_tracker" />
+</Context> 
+				
